@@ -65,17 +65,17 @@
 	<div id="cv-left-slider">
 		<!-- 1. SLIDE -->
 		<div>
-			<img src="{{asset('templates/default/images/photos/1200.png')}}" alt="">
+			<img src="{{asset('templates/default/images/lucduong_01.jpg')}}" alt="">
 			<div id="home-slide-title">
 				<span>TUAN LUC</span>
 			</div>
 		</div>
 		<!-- 2. SLIDE -->
-		<img src="{{asset('templates/default/images/photos/1200.png')}}" alt="">
+		<img src="{{asset('templates/default/images/lucduong_01.jpg')}}" alt="">
 		<!-- 3. SLIDE -->
-		<img src="{{asset('templates/default/images/photos/1200.png')}}" alt="">
+		<img src="{{asset('templates/default/images/lucduong_01.jpg')}}" alt="">
 		<!-- 4. SLIDE -->
-		<img src="{{asset('templates/default/images/photos/1200.png')}}" alt="">
+		<img src="{{asset('templates/default/images/lucduong_01.jpg')}}" alt="">
 		<!-- 5. SLIDE -->
 		<div>
 			<!-- GOOGLE MAP -->

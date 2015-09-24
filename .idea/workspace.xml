@@ -2,151 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3740392-26a3-4c56-a3a5-ef150abd5ab6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/css/icons/swatches/0,0,0,20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/css/icons/swatches/0,0,0,30.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/images/photos/1000.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/images/photos/1200.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/images/photos/150.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/css/icons/swatches/255,255,255,40.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/images/photos/480.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/images/photos/70.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/images/photos/800.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/images/down.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/css/icons/dummy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/images/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/fonts/lg.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/fonts/lg.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/fonts/lg.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/images/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/css/mCSB_buttons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/css/icons/next-dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/css/icons/next-light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/images/pin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/css/icons/play-pause-dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/css/icons/play-pause-light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/css/icons/prev-dark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/css/icons/prev-light.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/fonts/raleway-bold-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/fonts/raleway-bold-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/fonts/raleway-bold-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/fonts/raleway-regular-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/fonts/raleway-regular-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/fonts/raleway-regular-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/images/search.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/images/up.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/images/video-play.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/images/vimeo-play.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/images/youtube-play.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/js/accordion.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/css/animate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/js/backstretch.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/css/colors.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/css/contactform.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/js/galleries.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/js/googlemap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/js/home-custom.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/js/jflickrfeed.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/js/jquery-1.11.3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/js/jquery-1.11.3.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/js/jquery-ui-custom.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/js/jquery.ascensor.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/js/jquery.tooltipster.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/fonts/lg.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/css/lightgallery.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/js/lightgallery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/css/media.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/css/nerveslider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/js/nerveslider.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/css/nojs.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/css/normalize.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/js/portfolio-trigger.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/js/quovolver.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/fonts/raleway-bold-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/fonts/raleway-regular-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/css/scrollbar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/js/scrollbar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/js/tabs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/css/tooltipster.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/js/wookmark.js" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\css\bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\css\bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\fonts\tahoma.ttf" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\article-image.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\avatar.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\avatar2.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\avatar3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\blog-s3-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\blog-s3-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\blog-s3-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\blog-thumb-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\blog-thumb-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\blog-thumb-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\blog-thumb-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\blog-thumb-5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\blog-thumb-6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\bubble.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\cat-1.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\cat-2.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\cat-3.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\cat-4.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\cat-5.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\cat-6.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\cat-7.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\comment-avatar.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\entertainment.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\footer-sidebar-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\france.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\garman.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\logo.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\pppppp.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\slide\main-slide-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\slide\main-slide-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\slide\main-slide-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\slide\main-slide-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\sports-thumb-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\sports-thumb-10.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\sports-thumb-11.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\sports-thumb-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\sports-thumb-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\sports-thumb-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\sports-thumb-5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\sports-thumb-6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\sports-thumb-7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\sports-thumb-8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\sports-thumb-9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\thumbnail-big1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\thumbnail-small-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\thumbnail-small-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\thumbnail-small-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\thumbnail-small-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\thumbnail-small-5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\thumbnail-small-6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\thumbnail-small-7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\thumbnail-small-8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\thumbnail1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\thumbnail2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\thumbnail3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\thumbnail4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\thumbnail5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\thumbnail6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\img\uk.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\js\app.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\js\bootstrap.min.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/default/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/templates/default/fonts/FontAwesome.otf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/default/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/templates/default/fonts/fontawesome-webfont.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/default/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/templates/default/fonts/fontawesome-webfont.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/default/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/templates/default/fonts/fontawesome-webfont.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/default/js/custom.js" afterPath="$PROJECT_DIR$/templates/default/js/custom.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/database.php" afterPath="$PROJECT_DIR$/app/config/database.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/images/lucduong_01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/default/images/lucduong_02.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/default.blade.php" afterPath="$PROJECT_DIR$/app/views/layouts/default.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/default/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/templates/default/css/font-awesome.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/default/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/templates/default/fonts/fontawesome-webfont.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/home/home.blade.php" afterPath="$PROJECT_DIR$/app/views/home/home.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/default/css/style.css" afterPath="$PROJECT_DIR$/templates/default/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="D:\Projects\LUC\duongtuanluc.com\templates\default\js\html5shiv.js" afterPath="$PROJECT_DIR$/templates/default/js/html5.js" />
     </list>
     <ignored path="duongtuanluc.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -178,14 +37,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="default.blade.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="default.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/layouts/default.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.115385">
-              <caret line="63" column="28" selection-start-line="63" selection-start-column="28" selection-end-line="63" selection-end-column="28" />
+            <state vertical-scroll-proportion="0.5643154">
+              <caret line="77" column="67" selection-start-line="77" selection-start-column="67" selection-end-line="77" selection-end-column="67" />
               <folding>
-                <marker date="1443067921192" expanded="true" signature="23398:23493" placeholder="..." />
-                <marker date="1443067921192" expanded="true" signature="23411:23492" placeholder="..." />
+                <marker date="1443069200416" expanded="true" signature="23365:23460" placeholder="..." />
+                <marker date="1443069200416" expanded="true" signature="23378:23459" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -243,26 +102,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="colors.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/templates/default/css/colors.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3858478">
-              <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/default/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="293" column="50" selection-start-line="293" selection-start-column="50" selection-end-line="293" selection-end-column="50" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -275,10 +114,10 @@
         <option value="$PROJECT_DIR$/app/routes.php" />
         <option value="$PROJECT_DIR$/app/views/home/home.blade.php" />
         <option value="$PROJECT_DIR$/app/config/database.php" />
-        <option value="$PROJECT_DIR$/app/views/layouts/default.blade.php" />
         <option value="$PROJECT_DIR$/app/storage/logs/laravel.log" />
         <option value="$PROJECT_DIR$/templates/default/css/style.css" />
         <option value="$PROJECT_DIR$/templates/default/css/colors.css" />
+        <option value="$PROJECT_DIR$/app/views/layouts/default.blade.php" />
       </list>
     </option>
   </component>
@@ -357,6 +196,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="duongtuanluc.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="duongtuanluc.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -655,6 +516,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\LUC\duongtuanluc.com\templates\default\images" />
       <recent name="D:\Projects\LUC\duongtuanluc.com\templates\default" />
     </key>
   </component>
@@ -691,6 +553,19 @@
       <option name="number" value="Default" />
       <updated>1442973362598</updated>
     </task>
+    <task id="LOCAL-00001" summary="Change template">
+      <created>1443068757798</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1443068757798</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Change website title">
+      <created>1443068832194</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1443068832194</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -699,6 +574,7 @@
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -719,6 +595,11 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Change template" />
+    <MESSAGE value="Change website title" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change website title" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -804,17 +685,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/default.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.115385">
-          <caret line="63" column="28" selection-start-line="63" selection-start-column="28" selection-end-line="63" selection-end-column="28" />
-          <folding>
-            <marker date="1443067921192" expanded="true" signature="23398:23493" placeholder="..." />
-            <marker date="1443067921192" expanded="true" signature="23411:23492" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/storage/logs/laravel.log">
       <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
         <state />
@@ -822,14 +692,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/blueprint.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.807693">
-          <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
           <folding />
         </state>
       </provider>
@@ -844,9 +706,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/default/css/colors.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3858478">
-          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.45393857">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/blueprint.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.807693">
+          <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/default.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5643154">
+          <caret line="77" column="67" selection-start-line="77" selection-start-column="67" selection-end-line="77" selection-end-column="67" />
+          <folding>
+            <marker date="1443069200416" expanded="true" signature="23365:23460" placeholder="..." />
+            <marker date="1443069200416" expanded="true" signature="23378:23459" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
