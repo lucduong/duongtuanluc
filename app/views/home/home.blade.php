@@ -5,23 +5,23 @@
 		<div class="update-ribon">Last Update</div>
 		<span class="update-ribon-right"></span>
 		<div class="update-news-text" id="update-news-text">
-				<ul id="latestUpdate">  
+				<ul id="latestUpdate">
 				    <li><a href="/article/{{$articles[0]->slug}}">{{$articles[0]->title}}</a></li>
 				</ul>
 		</div>
 
 		<div class="update-right-border"></div>
 	</div>
-	
+
 	@include('elements.slider')
 
 	<section id="ccr-latest-post-gallery">
 			<div class="ccr-gallery-ttile">
-				<span></span> 
+				<span></span>
 				<p>Latest articles</p>
 			</div><!-- .ccr-gallery-ttile -->
 
-			
+
 				<ul class="ccr-latest-post">
 					@foreach ($articles as $article)
 					<li>
@@ -33,9 +33,9 @@
 					</li>
 					@endforeach
 				</ul>
-			
+
 		</section> <!--  /#ccr-latest-post-gallery  -->
-		
+
 		<section class="bottom-border">
 		</section> <!-- /#bottom-border -->
 </section>
