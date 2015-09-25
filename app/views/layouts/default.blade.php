@@ -121,7 +121,8 @@
 		<!-- PAGE CONTENT -->
 		<div class="cv-page-content">
 			<h2 class="border">ABOUT ME</h2>
-			<p>I am Luc Duong</p>
+			<p>I am Luc Duong. I am a very dynamic person. I love technology, art of life and I love speaker.
+			I always looking for the best way to do something but I know, the smartest way is better. <br />That's me.</p>
 			<!-- TABLE -->
 			<ul class="cv-table">
 				<li>
@@ -142,8 +143,8 @@
 					</div>
 				</li>
 			</ul>
-			<p>Senserit sed commodo. Ubi nescius a iudicem, non veniam si amet a tempor ad fabulas id ipsum excepteur relinqueret non fore commodo quibusdam, incidi imitaren do mentitum.</p>
-			<p>Et enim offendit ingeniis. Dolor probant senserit si mandaremus do nulla laborum, hic aute iudicem expetendis id cupidatat tamen iudicem proident ut eram arbitror aut veniam enim, nostrud.</p>
+			<p>I have 3 years of experience in Java and Web Development and 2 years in project management.</p>
+			<p></p>
 			<a href="#contact" class="cv-button primary go-to-floor" data-id="5" data-slug="contact">Hire Me</a>
 			<a href="#" class="cv-button">Download Resume</a>
 			<hr/>
@@ -156,7 +157,7 @@
 					</div>
 					<div class="cv-icon-text">
 						<h4>Web Design</h4>
-						<p>Voluptate illum dolore ita ipsum, quid deserunt singulis, labore admodum ita multos malis ea nam nam tamen fore amet. Vidisse quid incurreret ut ut possumus.</p>
+						<p>I have finish 3 big web applications using java framework and 10 web projects using PHP.</p>
 					</div>
 				</div>
 				<!-- ICON BLOCK -->
