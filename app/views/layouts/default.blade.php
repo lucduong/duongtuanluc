@@ -99,19 +99,13 @@
 				<nav id="cv-home-social-bar">
 					<ul>
 						<li>
-							<a href="#" class="fa fa-facebook-f tooltip-social" title="FACEBOOK">Facebook</a>
+							<a href="https://facebook.com/duongtuanluc" class="fa fa-facebook-f tooltip-social" title="FACEBOOK">Facebook</a>
 						</li>
 						<li>
-							<a href="#" class="fa fa-twitter tooltip-social" title="TWITTER">Twitter</a>
+							<a href="https://twitter.com/duongtuanluc" class="fa fa-twitter tooltip-social" title="TWITTER">Twitter</a>
 						</li>
 						<li>
-							<a href="#" class="fa fa-google-plus tooltip-social" title="GOOGLE PLUS">Google Plus</a>
-						</li>
-						<li>
-							<a href="#" class="fa fa-linkedin tooltip-social" title="LINKEDIN">Linkedin</a>
-						</li>
-						<li>
-							<a href="#" class="fa fa-vimeo tooltip-social" title="VIMEO">Vimeo</a>
+							<a href="https://www.linkedin.com/in/duongtuanluc" class="fa fa-linkedin tooltip-social" title="LINKEDIN">Linkedin</a>
 						</li>
 					</ul>
 				</nav>
@@ -127,24 +121,24 @@
 		<!-- PAGE CONTENT -->
 		<div class="cv-page-content">
 			<h2 class="border">ABOUT ME</h2>
-			<p>Laborum varias in possumus philosophari nam mandaremus ad malis. Sint fidelissimae tempor fugiat expetendis. Est nisi quibusdam admodum ut noster laborum se tamen culpa aut labore.</p>
+			<p>I am Luc Duong</p>
 			<!-- TABLE -->
 			<ul class="cv-table">
 				<li>
 					<div class="cv-table-left"><i class="cv-icon fa fa-user"></i>Date of birth</div>
-					<div class="cv-table-right">April 28th 1980</div>
+					<div class="cv-table-right">April 11th</div>
 				</li>
 				<li>
 					<div class="cv-table-left"><i class="cv-icon fa fa-language"></i>Languages</div>
-					<div class="cv-table-right">English, German</div>
+					<div class="cv-table-right">Vietnamese, English</div>
 				</li>
 				<li>
 					<div class="cv-table-left"><i class="cv-icon fa fa-futbol-o"></i>Hobbies</div>
-					<div class="cv-table-right">Soccer, Puzzles, Yoga</div>
+					<div class="cv-table-right">Soccer, Travelling, Speaking</div>
 				</li>
 				<li>
 					<div class="cv-table-left"><i class="cv-icon fa fa-external-link-square"></i>Website</div>
-					<div class="cv-table-right"><a href="#">www.themeforest.net</a>
+					<div class="cv-table-right"><a href="http://duongtuanluc.com">duongtuanluc.com</a>
 					</div>
 				</li>
 			</ul>
@@ -410,20 +404,20 @@
 			<ul class="cv-table">
 				<li>
 					<div class="cv-table-left"><i class="cv-icon fa fa-phone-square"></i>Phone</div>
-					<div class="cv-table-right">234-435-4345</div>
+					<div class="cv-table-right">(+84) 93 26 26 007</div>
 				</li>
 				<li>
 					<div class="cv-table-left"><i class="cv-icon fa fa-envelope"></i>E-mail</div>
-					<div class="cv-table-right"><a href="#">info@mysite.com</a>
+					<div class="cv-table-right"><a href="#">luc@e4u.vn</a>
 					</div>
 				</li>
 				<li>
 					<div class="cv-table-left"><i class="cv-icon fa fa-map"></i>Address</div>
-					<div class="cv-table-right">144 King St, Melbourne VIC</div>
+					<div class="cv-table-right">3.11 Gia Phu Apartment, No. 5 St, Binh Hung Hoa Ward, Binh Tan Dist, HCMC</div>
 				</li>
 				<li>
-					<div class="cv-table-left"><i class="cv-icon fa fa-fax"></i>Fax</div>
-					<div class="cv-table-right">234-435-4346</div>
+					<div class="cv-table-left"><i class="cv-icon fa fa-fax"></i>Homephone</div>
+					<div class="cv-table-right">(+84) 66 56 69 69</div>
 				</li>
 			</ul>
 			<p>Amet litteris ingeniis in eiusmod et legam aliquip, anim consequat ubi incididunt ubi eram cernantur adipisicing, ab fore illustriora, amet voluptate.</p>
@@ -447,7 +441,7 @@
 	<!-- FOOTER -->
 	<footer id="footer">
 		<div class="cv-credits">
-			Copyright <a href="#">Egemenerd</a> - All rights reserved
+			Copyright <a href="http://duongtuanluc.com">Luc Duong</a> - All rights reserved
 		</div>
 		<!-- BACK TO TOP BUTTON -->
 		<div id="cv-back-to-top" class="tooltip-gototop" title="Go to top"></div>
@@ -609,7 +603,7 @@
 <script type="text/javascript">
 	jQuery(document).ready(function () {
 		"use strict";
-		jQuery('#home-image').backstretch("images/photos/1200.png");
+		jQuery('#home-image').backstretch("{{asset('templates/default/images/lucduong_02.jpg')}}");
 	});
 </script>
 <!-- PORTFOLIO -->
